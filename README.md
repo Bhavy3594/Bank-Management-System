@@ -93,7 +93,7 @@ Bank-Management-System/
 ### Compilation & Running
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Bhavy3594/Bank-Management-System.git
+   git clone https://github.com/BhavyAtkotiya/Bank-Management-System.git
    cd Bank-Management-System/bank_management_system_code
    ```
 2. **Compile Java Source Files:**
