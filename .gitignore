@@ -1,0 +1,17 @@
+# Compiled Java files
+*.class
+bank_management_system_code/build/
+bank_management_system_code/bin/
+bank_management_system_code/dist/
+
+# NetBeans IDE project private files
+bank_management_system_code/nbproject/private/
+
+# Local properties & database config
+*.properties.local
+db.properties
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
